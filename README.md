@@ -58,6 +58,7 @@ Returns basic information about the developer.
   "github_url": "https://github.com/spykelionel/hng12-task1-profile.git"
 }
 
+```
 
 ## Deployment
 
@@ -67,8 +68,9 @@ The API is deployed on Render.
 
 ## Documentation
 
-For more details, visit the repository: [GitHub Repository](https://github.com/spykelionel/hng12-task1-profile.git# Related Links
+For more details, visit the repository: [GitHub Repository](https://github.com/spykelionel/hng12-task1-profile.git)
+
+# Related Links
 
 [Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)
 
-```
