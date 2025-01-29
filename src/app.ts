@@ -11,9 +11,9 @@ app.use(cors());
 
 app.get("/", (req, res) => {
   res.json({
-    email: process.env.EMAIL || "developer.ndilionel@gmail.com",
+    email: "developer.ndilionel@gmail.com",
     current_datetime: new Date().toISOString().slice(0, 19) + "Z",
-    github_url: "https://github.com/spykelionel/hng12-task1-profile.git",
+    github_url: "https://github.com/spykelionel/hng12-task1-profile",
   });
 });
 
